@@ -1,0 +1,9 @@
+export const GET_ALL_GATEGORY = "GET_ALL_GATEGORY";
+export const CREATE_CATEGORY = 'CREATE_CATEGORY';
+export const ERROR = "ERROR";
+export const CREATE_SUBCATEGORY = "CREATE_SUBCATEGORY";
+export const GET_ALL_BRAND = "GET_ALL_BRAND";
+export const CREATE_BRAND = 'CREATE_BRAND';
+export const CREATE_NEW_USER = "CREATE_NEW-USER";
+export const LOG_IN_USER = "LOG_IN_USER";
+export const FORGET_PASSWORD = "FORGET_PASSWORD"
