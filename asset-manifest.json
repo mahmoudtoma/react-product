@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-product/static/css/main.67975a31.css",
+    "main.js": "/react-product/static/js/main.e089368c.js",
+    "static/js/787.9760d5ec.chunk.js": "/react-product/static/js/787.9760d5ec.chunk.js",
+    "static/media/laptops_s.PNG": "/react-product/static/media/laptops_s.526ab6d7f7a91868d46d.PNG",
+    "static/media/slider2.PNG": "/react-product/static/media/slider2.40f98172689c72581d7e.PNG",
+    "static/media/mobile2.png": "/react-product/static/media/mobile2.1b3cf13086e809bb8d7d.png",
+    "static/media/mobile1.png": "/react-product/static/media/mobile1.1997f77f2ce6b9677dc6.png",
+    "static/media/item.png": "/react-product/static/media/item.79eafdfba70f40ed66c5.png",
+    "static/media/mobile.png": "/react-product/static/media/mobile.1c4bc892a60e36742151.png",
+    "static/media/slider3.PNG": "/react-product/static/media/slider3.8801d5fce2a8145b05b5.PNG",
+    "static/media/slider11.PNG": "/react-product/static/media/slider11.1c81d2e32d3c54afae27.PNG",
+    "static/media/Logo.png": "/react-product/static/media/Logo.ca97363f33f93c43233f.png",
+    "static/media/avatar.png": "/react-product/static/media/avatar.f5ed20588df8bb546e2d.png",
+    "index.html": "/react-product/index.html",
+    "main.67975a31.css.map": "/react-product/static/css/main.67975a31.css.map",
+    "main.e089368c.js.map": "/react-product/static/js/main.e089368c.js.map",
+    "787.9760d5ec.chunk.js.map": "/react-product/static/js/787.9760d5ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67975a31.css",
+    "static/js/main.e089368c.js"
+  ]
+}
